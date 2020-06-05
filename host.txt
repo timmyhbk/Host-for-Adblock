@@ -1,9 +1,6 @@
 !Last update:2020/06/05 10:56
-!total:133
+!total:130
 
-100007776.collect.igodigital.com
-6015572.fls.doubleclick.net
-7336.engine.mobileapptracking.com
 ad.adondemand.com
 ad.doubleclick.net
 ad.ettoday.net
