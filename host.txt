@@ -1,16 +1,20 @@
-!Last update:2020/06/04 16:50
-!total:117
+!Last update:2020/06/05 10:56
+!total:133
 
+100007776.collect.igodigital.com
 6015572.fls.doubleclick.net
+7336.engine.mobileapptracking.com
 ad.adondemand.com
 ad.doubleclick.net
 ad.ettoday.net
 ad.holmesmind.com
+ad.tagtoo.co
 ade.clmbtech.com
 ads.mopub.com
 ads.pro-market.net
 adservice.google.com
 adservice.google.com.tw
+ad-specs.guoshipartners.com
 alb.reddit.com
 alog.umeng.com
 alog.umengcloud.com
@@ -18,11 +22,13 @@ analytics.localytics.com
 analytics.query.yahoo.com
 analytics.rayjump.com
 api.branch.io
+api.ematicsolutions.com
 api.exc.mob.com
 api2.branch.io
 app.adjust.com
 app.appsflyer.com
 app-measurement.com
+asia.creativecdn.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
 beacons2.gvt2.com
@@ -32,6 +38,7 @@ beacons5.gvt2.com
 b-graph.facebook.com
 bi.manhuaren.com
 cdn.onesignal.com
+cdn.tamedia.com.tw
 cdn-f.adsmoloco.com
 cdn-settings.segment.com
 certify.alexametrics.com
@@ -40,6 +47,7 @@ click.baburnadir.com
 click.devmobistudio.com
 click.inplayable.com
 cm.g.doubleclick.net
+cm.lndata.com
 d2v02itv0y9u9t.cloudfront.net
 data.flurry.com
 decide.mixpanel.com
@@ -58,7 +66,9 @@ i.mxplayer.j2inter.com
 id.google.com
 images.gamme.com.tw
 impression.appsflyer.com
+inapps.appsflyer.com
 js-agent.newrelic.com
+jscdn.appier.net
 junggglex.go2affise.com
 kinesis.us-east-1.amazonaws.com
 launches.appsflyer.com
@@ -68,6 +78,7 @@ m.optout.ziffdavis.com
 mads.amazon-adsystem.com
 manifest.localytics.com
 match.adsrvr.org
+mobile.useinsider.com
 msg.ettoday.net
 mxase.clmbtech.com
 net.rayjump.com
@@ -76,15 +87,18 @@ pixel.rubiconproject.com
 profile.localytics.com
 ps.eyeota.net
 pubads.g.doubleclick.net
+rec.scupio.com
 redirect.appleads-trk.com
 register.appsflyer.com
 reports.crashlytics.com
 s.amazon-adsystem.com
 s.c.appier.net
+s.lndata.com
 sb.scorecardresearch.com
 sdk.adtiming.com
 secure.quantserve.com
 securepubads.g.doubleclick.net
+sessions.bugsnag.com
 setting.rayjump.com
 settings.crashlytics.com
 shealth-analytics-api.samsunghealth.com
@@ -112,8 +126,10 @@ tracking.yohoads.com
 tw-gmtdmp.mookie1.com
 ulogs.umeng.com
 ulogs.umengcloud.com
+v.lndata.com
 vaes.amazon-adsystem.com
 vortex.data.microsoft.com
+widget.criteo.com
 widgets.outbrain.com
 www.googleadservices.com
 www.google-analytics.com
