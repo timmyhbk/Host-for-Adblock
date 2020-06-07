@@ -1,11 +1,12 @@
-!Last update:2020/06/05 10:56
-!total:130
+!Last update:2020/06/07 20:30
+!total:144
 
 ad.adondemand.com
 ad.doubleclick.net
 ad.ettoday.net
 ad.holmesmind.com
 ad.tagtoo.co
+ad.techsolutions.com.tw
 ade.clmbtech.com
 ads.mopub.com
 ads.pro-market.net
@@ -18,26 +19,28 @@ alog.umengcloud.com
 analytics.localytics.com
 analytics.query.yahoo.com
 analytics.rayjump.com
+api.amplitude.com
 api.branch.io
 api.ematicsolutions.com
 api.exc.mob.com
+api.popin.cc
 api2.branch.io
 app.adjust.com
 app.appsflyer.com
 app-measurement.com
 asia.creativecdn.com
+bat.bing.com
 beacons.gcp.gvt2.com
 beacons.gvt2.com
-beacons2.gvt2.com
-beacons3.gvt2.com
-beacons4.gvt2.com
-beacons5.gvt2.com
 b-graph.facebook.com
 bi.manhuaren.com
+bw.scupio.com
 cdn.onesignal.com
+cdn.siftscience.com
 cdn.tamedia.com.tw
 cdn-f.adsmoloco.com
 cdn-settings.segment.com
+cdp.cloud.unity3d.com
 certify.alexametrics.com
 certify-js.alexametrics.com
 click.baburnadir.com
@@ -45,6 +48,8 @@ click.devmobistudio.com
 click.inplayable.com
 cm.g.doubleclick.net
 cm.lndata.com
+config.uca.cloud.unity3d.com
+cx.atdmt.com
 d2v02itv0y9u9t.cloudfront.net
 data.flurry.com
 decide.mixpanel.com
@@ -59,11 +64,14 @@ global.ymtracking.com
 googleads.g.doubleclick.net
 graph.facebook.com
 graph.instagram.com
+i.clean.gg
 i.mxplayer.j2inter.com
 id.google.com
 images.gamme.com.tw
+img.scupio.com
 impression.appsflyer.com
 inapps.appsflyer.com
+js.fout.jp
 js-agent.newrelic.com
 jscdn.appier.net
 junggglex.go2affise.com
@@ -79,6 +87,8 @@ mobile.useinsider.com
 msg.ettoday.net
 mxase.clmbtech.com
 net.rayjump.com
+p.imgur.com
+p.typekit.net
 pagead2.googlesyndication.com
 pixel.rubiconproject.com
 profile.localytics.com
@@ -88,6 +98,7 @@ rec.scupio.com
 redirect.appleads-trk.com
 register.appsflyer.com
 reports.crashlytics.com
+rum-http-intake.logs.datadoghq.com
 s.amazon-adsystem.com
 s.c.appier.net
 s.lndata.com
@@ -103,13 +114,16 @@ sonylabelgate.112.2o7.net
 sp.analytics.yahoo.com
 ssl.google-analytics.com
 ssl-cdn.media.innity.net
+static.ads-twitter.com
 static.criteo.net
 static.doubleclick.net
 static-tagr.gd1.mookie1.com
 stats.wp.com
+sync.smartadserver.com
 t.appsflyer.com
 t.ssp.hinet.net
 tag.crsspxl.com
+tag.navdmp.com
 tags.bkrtx.com
 torimochi.line-apps.com
 track.adstack.co
